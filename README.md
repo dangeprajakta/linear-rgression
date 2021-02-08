@@ -1,2 +1,2 @@
 # linear-rgression
-first project of ML
+admission prediction
